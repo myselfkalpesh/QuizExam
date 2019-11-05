@@ -1,0 +1,7 @@
+C:\Users\1896153\source\repos\QuizOne\QuizOne\bin\Debug\QuizOne.exe.config
+C:\Users\1896153\source\repos\QuizOne\QuizOne\bin\Debug\QuizOne.exe
+C:\Users\1896153\source\repos\QuizOne\QuizOne\bin\Debug\QuizOne.pdb
+C:\Users\1896153\source\repos\QuizOne\QuizOne\obj\Debug\QuizOne.csprojAssemblyReference.cache
+C:\Users\1896153\source\repos\QuizOne\QuizOne\obj\Debug\QuizOne.csproj.CoreCompileInputs.cache
+C:\Users\1896153\source\repos\QuizOne\QuizOne\obj\Debug\QuizOne.exe
+C:\Users\1896153\source\repos\QuizOne\QuizOne\obj\Debug\QuizOne.pdb
